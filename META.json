@@ -1,5 +1,5 @@
 {
-   "abstract" : "Blah blah blah",
+   "abstract" : "Code::TidyAll plugin for pg_format",
    "author" : [
       "Andy Jack <andyjack@cpan.org>"
    ],
@@ -37,6 +37,7 @@
       },
       "runtime" : {
          "requires" : {
+            "Code::TidyAll" : "0",
             "perl" : "5.008005"
          }
       },
