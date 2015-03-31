@@ -48,6 +48,17 @@
       }
    },
    "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/andyjack/perl-code-tidyall-plugin-pgformatter/issues"
+      },
+      "homepage" : "https://github.com/andyjack/perl-code-tidyall-plugin-pgformatter",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/andyjack/perl-code-tidyall-plugin-pgformatter.git",
+         "web" : "https://github.com/andyjack/perl-code-tidyall-plugin-pgformatter"
+      }
+   },
    "version" : "0.01"
 }
 
